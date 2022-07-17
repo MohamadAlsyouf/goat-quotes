@@ -11,7 +11,7 @@ export default function Navbar() {
     <nav className="nav">
       <Link to="/" className="site-title">Goat Quotes</Link>
       <ul>
-        <CustomLink to="/get-quotes">Get Quotes</CustomLink>
+        <CustomLink to="/get-quotes">Get a Quote</CustomLink>
       </ul>
     </nav>
   );
